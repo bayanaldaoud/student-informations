@@ -1,0 +1,71 @@
+body{
+    background-image: url(../bg.jpg );
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    color:ivory;
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+}
+
+.navBar{
+    background-color: rgba(96, 96, 96,0.6);
+    /* #eee */
+    text-align: center;
+
+}
+ul{
+
+    list-style-type: none;
+    display: inline-flex;
+    letter-spacing: 3px;
+    justify-content: space-around;
+    margin-left: 1000px;
+    color: ivory;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+
+form{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 1100px;
+    background-color:rgba(96, 96, 96,0.6) ;
+    font-family: 'Roboto', sans-serif;
+    
+}
+label{
+    display: block;
+    color: ivory;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 50px;
+    
+}
+input ,select{
+    margin-left: 350px;
+}
+
+
+footer{
+    color: ivory;
+    margin-top: 450px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+   
+}
+button{
+    font-size: 20px;
+    display: block;
+    margin-left: 170px;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    padding: 4px 70px;
+}
